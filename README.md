@@ -2,7 +2,8 @@
 
 ### Semua jenis algoritma yang diimplementasikan di Python
 
-Semua isi dari _repository_ ini bertujuan untuk proses pembelajaran.
+Semua isi dari _repository_ ini bertujuan untuk proses pembelajaran.  
+Untuk refrensi silahkan lihat di [Visualgo](https://visualgo.net/id)
 
 ## Aturan Kontribusi
 

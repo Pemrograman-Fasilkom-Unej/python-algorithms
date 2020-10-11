@@ -24,3 +24,5 @@ Pastikan sebelum anda memulai berkontribusi pada _repository_ ini, silahkan baca
 - Pastikan nama file ber-akhiran `.py`.
 - Gunakan snake_case untuk nama file.
 - Pastikan kode berjalan dan tidak ada error sebelum melakukan _Pull Request_
+- Lakukan check pada algoritma yang anda kerjakan pada file README.md
+- Satu Pull Request satu Algoritma

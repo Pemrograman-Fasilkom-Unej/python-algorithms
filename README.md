@@ -13,10 +13,39 @@ Sebelum memulai kontribusi, silahkan membaca [aturan kontribusi](CONTRIBUTING.md
 Daftar algoritma yang sudah diimplementasikan dapat dilihat dibawah.
 
 ### Searching
-
-Daftar teknik _searching_ yang terdapat di _repository_ ini.
+- [ ] Linear Search
+- [ ] Binary Search
+- [ ] Jump Search
+- [ ] Interpolation Search
+- [ ] Exponentioal Search
+- [ ] Fibbonacci Search
+- [ ] Fuzzy Search
+- [ ] Ternay Search
 
 ### Sorting
+- [ ] Bubble Sort
+- [ ] Selection Sort
+- [ ] Insertion Sort
+- [ ] Merge Sort
+- [ ] Quick Sort
+- [ ] Counting Sort
+- [ ] Binary Tree Sort
 
-Daftar teknik _sorting_ yang terdapat di _repository_ ini.
+### Cryptography
+- [ ] Affine Cipher
+- [ ] Atbash Cipher
+- [ ] Autokey Cipher
+- [ ] Baconian Cipher
+- [ ] Caesar Cipher
+- [ ] Colummnar Cipher
+- [ ] Vignere Cipher
 
+### Data Structures
+- [ ] Hashes
+- [ ] Linked List
+- [ ] List
+- [ ] Queue
+- [ ] Stack
+- [ ] Tree
+
+### Other

@@ -26,7 +26,7 @@ Daftar algoritma yang sudah diimplementasikan dapat dilihat dibawah.
 ### Sorting
 - [ ] Bubble Sort
 - [ ] Selection Sort
-- [ ] Insertion Sort
+- [x] Insertion Sort
 - [ ] Merge Sort
 - [ ] Quick Sort
 - [ ] Counting Sort

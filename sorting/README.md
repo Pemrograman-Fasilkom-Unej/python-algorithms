@@ -7,7 +7,7 @@ Silahkan buat file python dengan nama *Camel Case* dari kategori di bawah ini da
 ### Kategori
 - [ ] Bubble Sort
 - [ ] Selection Sort
-- [ ] Insertion Sort
+- [x] Insertion Sort
 - [ ] Merge Sort
 - [ ] Quick Sort
 - [ ] Counting Sort

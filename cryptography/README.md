@@ -1,7 +1,7 @@
 # Cryptography Algorithm
 
 ### How to...
-Silahkan buat file python dengan nama *Camel Case* dari kategori di bawah ini dan implementasikan algoritmanya
+Silahkan buat file python dengan nama *snake_case* dari kategori di bawah ini dan implementasikan algoritmanya
 > Contoh : `affine_cipher.py`
 
 ### Kategori

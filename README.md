@@ -24,7 +24,7 @@ Daftar algoritma yang sudah diimplementasikan dapat dilihat dibawah.
 - [ ] Ternay Search
 
 ### Sorting
-- [ ] Bubble Sort
+- [x] Bubble Sort
 - [ ] Selection Sort
 - [x] Insertion Sort
 - [ ] Merge Sort

@@ -5,7 +5,7 @@ Silahkan buat file python dengan nama *snake_case* dari kategori di bawah ini da
 > Contoh : `linear_search.py`
 
 ### Kategori
-- [ ] Linear Search
+- [x] Linear Search
 - [ ] Binary Search
 - [ ] Jump Search
 - [ ] Interpolation Search

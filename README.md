@@ -14,7 +14,7 @@ Sebelum memulai kontribusi, silahkan membaca [aturan kontribusi](CONTRIBUTING.md
 Daftar algoritma yang sudah diimplementasikan dapat dilihat dibawah.
 
 ### Searching
-- [ ] Linear Search
+- [x] Linear Search
 - [ ] Binary Search
 - [ ] Jump Search
 - [ ] Interpolation Search
